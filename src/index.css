@@ -83,7 +83,9 @@ textarea:focus{
   color: #fff;
 }
 .dark-mode{
-  background-color: #000;
+  /*background-color: #000;*/
+  background: url('./img/nig.jpg') center center;
+
 
 }
 .dark-mode h1{
