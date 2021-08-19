@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Postics-App/static/css/main.fa8d503b.chunk.css",
+    "main.css": "/React-Postics-App/static/css/main.6cf02e35.chunk.css",
     "main.js": "/React-Postics-App/static/js/main.6ef6d0e3.chunk.js",
     "main.js.map": "/React-Postics-App/static/js/main.6ef6d0e3.chunk.js.map",
     "runtime-main.js": "/React-Postics-App/static/js/runtime-main.65ca7a25.js",
@@ -8,14 +8,14 @@
     "static/js/2.f6de473b.chunk.js": "/React-Postics-App/static/js/2.f6de473b.chunk.js",
     "static/js/2.f6de473b.chunk.js.map": "/React-Postics-App/static/js/2.f6de473b.chunk.js.map",
     "index.html": "/React-Postics-App/index.html",
-    "static/css/main.fa8d503b.chunk.css.map": "/React-Postics-App/static/css/main.fa8d503b.chunk.css.map",
+    "static/css/main.6cf02e35.chunk.css.map": "/React-Postics-App/static/css/main.6cf02e35.chunk.css.map",
     "static/js/2.f6de473b.chunk.js.LICENSE.txt": "/React-Postics-App/static/js/2.f6de473b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/React-Postics-App/static/media/bunny.60a97f83.jpg"
+    "static/media/index.css": "/React-Postics-App/static/media/nig.4506bc73.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.65ca7a25.js",
     "static/js/2.f6de473b.chunk.js",
-    "static/css/main.fa8d503b.chunk.css",
+    "static/css/main.6cf02e35.chunk.css",
     "static/js/main.6ef6d0e3.chunk.js"
   ]
 }
